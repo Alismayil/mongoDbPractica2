@@ -23,11 +23,13 @@ function App() {
           <p>{item.title}</p>
           {
             console.log(item)
+
           }
         </>
       ))}
     </div>
   )
 }
+// salam
 
 export default App
